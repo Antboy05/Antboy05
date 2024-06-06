@@ -1,6 +1,6 @@
  👋 Hi, I’m @Antboy05
 - 👀 I’m interested in climbing & coding
-- 🌱 I’m currently learning C/C++
+- 🌱 I’m currently learning C/C++ & Python 
 - 📫 How to reach me: Github acc
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: Wot enjoyer
